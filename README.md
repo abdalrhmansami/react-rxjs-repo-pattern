@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To Run The Project You should:
+* Run dev server `npm run start:server`
+* Run your react app `npm start`
+* Or you can run them together `npm run start:all`
+
 ## Available Scripts
 
 In the project directory, you can run:
