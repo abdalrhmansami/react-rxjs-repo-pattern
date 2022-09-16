@@ -1,0 +1,54 @@
+{
+  "customers": [
+    {
+      "email": "Jalon_Price10@yahoo.com",
+      "phone": "638-886-8451",
+      "id": 51237
+    },
+    {
+      "email": "Lester17@gmail.com",
+      "phone": "807.322.7866 x8846",
+      "id": 24561
+    },
+    {
+      "id": 6336,
+      "email": "rosaguy@fuelton.com",
+      "phone": "+1 (876) 520-3526"
+    },
+    {
+      "id": 63544,
+      "email": "rosaguy@fuelton.com",
+      "phone": "+1 (937) 568-2983"
+    },
+    {
+      "id": 94091,
+      "email": "rosaguy@fuelton.com",
+      "phone": "+1 (858) 422-2356"
+    },
+    {
+      "id": 68832,
+      "email": "rosaguy@fuelton.com",
+      "phone": "+1 (804) 578-2147"
+    },
+    {
+      "id": 55794,
+      "email": "rosaguy@fuelton.com",
+      "phone": "+1 (809) 473-3802"
+    },
+    {
+      "id": 77803,
+      "email": "Carissa_Kuvalis@yahoo.com",
+      "phone": "989.852.0332"
+    },
+    {
+      "id": 96504,
+      "email": "Salvador79@yahoo.com",
+      "phone": "888.767.0957 x05341"
+    },
+    {
+      "id": 60476,
+      "email": "Maxwell.OKon@gmail.com",
+      "phone": "408.515.1773"
+    }
+  ]
+}
